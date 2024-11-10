@@ -1,0 +1,169 @@
+.titleimage{
+    width: 500px;
+    margin-left: 30px;
+}
+
+#textdiv{
+    text-align: center;
+    margin-top: 130px;
+}
+
+#textdiv h1{
+    font-size: 50px;
+}
+#textdiv p{
+    padding: 15px;
+}
+.btn-dark{
+    background-color:rgb(88, 80, 197);
+}
+.conimages{
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 0px #4b4078;
+    border-radius: 10px;
+}
+.minititle{
+    margin-right: 110px;
+    padding: 5px;
+    text-align: center;
+    font-size: 17px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(234, 114, 144);
+    box-shadow: 2px 2px 0px #4b4078;
+}
+.col{
+    padding-top: 10px;
+
+}
+#jumpimg{
+    width: 500px;
+    border: 1px solid black;
+}
+.imgtext{
+    padding-top: 50px;
+}
+
+.copyauthor{
+    display: flex;
+    font-size: 13px;
+}
+#author{
+    margin-left: 30px;
+}
+.footerdiv{
+    background-color: rgb(218, 214, 214);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 1px;
+}
+a:link {
+    text-decoration: none;
+}
+.email{
+    font-size: 13px;
+}
+.row{
+    justify-content: center;
+}
+
+.titlecon{
+    display: flex; justify-content: center; flex-wrap: wrap;
+}
+.imagetitle img{
+    width: 500px;
+}
+.titletext{
+    text-align: center;
+    padding: 50px;
+    width: 800px;
+    margin-top: 50px;
+}
+.titletext p{
+    margin-top: 20px;
+}
+.con img{
+    width: 90px;
+}
+.con{
+    text-align: center;
+    background-color: rgb(252, 252, 252);
+    padding: 10px;
+}
+
+.con h5{
+    font-weight: 700;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 
+    repeat(auto-fit,minmax(200px,1fr));
+    gap: 15px;
+    justify-content: center;
+}
+
+.Categories{
+    font-weight: 700;
+
+}
+.title2{
+    font-weight:700;
+}
+.titlecon p{
+    font-weight: 500;
+}
+
+.things{
+    margin-top: 50px;
+}
+.grid-container2{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 
+    repeat(auto-fit,minmax(300px,300px));
+    gap: 15px;   
+}
+.learning img{
+    width: 300px;
+}
+.imgflex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+    background-color: rgb(216, 184, 216);
+    margin-top: 50px;
+}
+
+.paratext{
+    text-align: center;
+    width: 500px;
+    margin-top: 50px;
+}
+.paratext h3{
+    font-weight: 700;
+}
+.con2{
+    margin-top: 20px;
+}
+
+.improve h4{
+    text-align: center;
+    font-weight: 700;
+    padding: 40px;
+}
+.cardsec{
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.card-text{
+    background-color: rgb(206, 177, 254);
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.card{
+    border: 1px solid black;
+}
